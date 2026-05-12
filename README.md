@@ -8,7 +8,6 @@ This repository contains the code and dataset structure for kidney stone detecti
 Kidney Stone Detection from CT Scan Images using a Hybrid of Vision Transformer and YOLOv8/
 ├── code/
 │   ├── ViTBackedYOLOv8.ipynb
-│   └── other scripts or notebooks
 ├── data/
 │   ├── train/
 │   │   ├── images/
